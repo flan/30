@@ -11,7 +11,7 @@ Puzzles that must be solved before their keys disappear or the room collapses. H
 
 Story elements that can only be found in the ruins.
 
-NPCs affected by the collapse, affecting later puzzles, if they live.
+NPCs are affected by the collapse, affecting later puzzles, if they live.
 
 A true ending (which exists so players can know they've reached the end) requires reaching and solving a final puzzle; some failures may be required along the way. The true ending will leave questions unanswered, though, making a walkthrough-based run unsatisfying; the answers require traversing through failure cases. There may be cause to borrow from 999 or Zero Escape here, in terms of giving the player's character knowledge only the player would know from having seen other paths.
 
